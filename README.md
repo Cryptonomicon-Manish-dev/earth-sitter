@@ -111,7 +111,7 @@ FloodSight is a cutting-edge web application that leverages artificial intellige
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/floodsight.git
+git clone https://github.com/Cryptonomicon-Manish-dev/earth-sitter.git
 cd floodsight
 ```
 
