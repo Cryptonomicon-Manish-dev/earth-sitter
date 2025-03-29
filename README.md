@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![FloodSight Logo](screenshots/Menu1.png)
-
 [![Next.js](https://img.shields.io/badge/Next.js-15.1.0-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
@@ -13,6 +11,27 @@
 ## 📝 Overview
 
 FloodSight is a cutting-edge web application that leverages artificial intelligence to predict and visualize flood risks. This modern, user-friendly platform provides interactive flood risk mapping, historical data analysis, and predictive modeling capabilities. Built with the latest web technologies, it offers a seamless experience for both users and developers.
+
+## 📸 Screenshots
+
+<div align="center">
+
+### 🎯 Main Dashboard Interface
+<img src="screenshots/Menu1.png" alt="FloodSight Main Dashboard" width="800"/>
+
+*The main dashboard showing the flood risk visualization and key metrics*
+
+### 📊 Data Analytics Dashboard
+<img src="screenshots/Data.png" alt="FloodSight Data Analytics" width="800"/>
+
+*Comprehensive data analytics view with interactive charts and metrics*
+
+### 🧭 Navigation and Controls
+<img src="screenshots/Menu2.png" alt="FloodSight Navigation Menu" width="800"/>
+
+*Navigation menu and control panel for customizing flood risk parameters*
+
+</div>
 
 ## 🎯 Key Features
 
@@ -140,7 +159,7 @@ floodsight/
 └── styles/             # Tailwind configurations
 ```
 
-## �� Configuration
+## 📄 Configuration
 
 ### 📄 Configuration Files
 
